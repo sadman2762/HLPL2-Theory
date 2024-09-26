@@ -1,0 +1,12 @@
+2022 HLPL2 Writing Part
+
+1) characteristics of subprogram
+2) pass by result passing mode
+3) parametrized abstract data type
+4) continuation after exception handling
+5) difference between class variable and instance variable
+6) object orientation concepts
+7)adv/dis adv of static local var
+8) difference between monitors and semaphores
+9) exceptional handling in java 
+10)why coroutines are called quasi-concurrent
